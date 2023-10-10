@@ -1,1 +1,3 @@
 Github on pilvepõhine platvorm, mis aitab teostada versioonikontrolli failide üle. Seda kasutavad valdavalt programmeerijad. Selle abil saab hõlpsasti teha meeskonnatööd.
+Kui on vaja teha kooliülesandeid, mis vajavad Githubi kasutust.
+GitHub on loodud aastal 8.02.2008 ja seda asutas Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. Ja aastast 2018 kuulub see Microsofti alla. Peakontor asub California, USA.
