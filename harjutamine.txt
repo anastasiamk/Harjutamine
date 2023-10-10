@@ -1,1 +1,2 @@
 Github on pilvepõhine platvorm, mis aitab teostada versioonikontrolli failide üle. Seda kasutavad valdavalt programmeerijad. Selle abil saab hõlpsasti teha meeskonnatööd.
+Kui on vaja teha kooliülesandeid, mis vajavad Githubi kasutust.
